@@ -1,0 +1,10 @@
+2.0.1:
+• Fixed in-game key binding issue.
+
+2.0.0: 
+• Compatibility with TundraLink's InputFix mod.
+• Optional support for TrombSettings.
+• Added "Always start enabled" setting.
+
+1.0.1: 
+• Compatibility with game version 1.08.
