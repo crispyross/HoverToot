@@ -1,7 +1,7 @@
-﻿**HoverToot 2.0.1**
+﻿**HoverToot 2.1.0**
 
 Allows you to toot by just hovering over the notes.
-Tested on game versions 1.086x - 1.087 beta.
+Tested on game version 1.0895B.
 
 • By default, toggles on/off using F7.
 • Achievement progress, high scores, and toot coins are not saved on performances where you have toggled HoverToot on.
